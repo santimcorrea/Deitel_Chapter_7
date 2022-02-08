@@ -267,7 +267,7 @@ void valorMano( int numero )
             printf("\nTenes un Par\n");
             break;
         case 0:
-            printf("\nNo tenes ni Mierda\n");
+            printf("\nNo tenes ninguna combinacion\n");
             break;
         default:
             break;
@@ -301,7 +301,7 @@ void valorManoPtr( int *numero )
             printf("\nTenes un Par\n");
             break;
         case 0:
-            printf("\nNo tenes ni Mierda\n");
+            printf("\nNo tenes ninguna combinacion\n");
             break;
         default:
             break;
